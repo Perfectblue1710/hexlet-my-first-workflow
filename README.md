@@ -1,1 +1,2 @@
 # hexlet-my-first-workflow
+[![Say Hello Workflow](https://github.com/Perfectblue1710/hexlet-my-first-workflow/actions/workflows/hello.yml/badge.svg)](https://github.com/Perfectblue1710/hexlet-my-first-workflow/actions/workflows/hello.yml)
